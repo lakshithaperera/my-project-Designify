@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/my-project-Designify/static/js/main.d93de051.chunk.js",
+    "main.js.map": "/my-project-Designify/static/js/main.d93de051.chunk.js.map",
+    "runtime-main.js": "/my-project-Designify/static/js/runtime-main.28b6771c.js",
+    "runtime-main.js.map": "/my-project-Designify/static/js/runtime-main.28b6771c.js.map",
+    "static/js/2.5fa0a62f.chunk.js": "/my-project-Designify/static/js/2.5fa0a62f.chunk.js",
+    "static/js/2.5fa0a62f.chunk.js.map": "/my-project-Designify/static/js/2.5fa0a62f.chunk.js.map",
+    "index.html": "/my-project-Designify/index.html",
+    "precache-manifest.6ed45cfd782c117f8c5bee149628c710.js": "/my-project-Designify/precache-manifest.6ed45cfd782c117f8c5bee149628c710.js",
+    "service-worker.js": "/my-project-Designify/service-worker.js",
+    "static/js/2.5fa0a62f.chunk.js.LICENSE.txt": "/my-project-Designify/static/js/2.5fa0a62f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28b6771c.js",
+    "static/js/2.5fa0a62f.chunk.js",
+    "static/js/main.d93de051.chunk.js"
+  ]
+}
